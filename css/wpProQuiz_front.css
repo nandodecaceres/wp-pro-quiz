@@ -1,5 +1,5 @@
 .wpProQuiz_answerCorrect {
-	background: #6DB46D !important;
+	background: #F2FBEF !important;
 	font-weight: bold !important;
 }
 .wpProQuiz_answerCorrect label {
@@ -7,7 +7,7 @@
 }
 
 .wpProQuiz_answerIncorrect {
-	background: #FF9191 !important;
+	background: #FBEFFB !important;
 	font-weight: bold !important;
 }
 .wpProQuiz_content {
